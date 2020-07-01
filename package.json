@@ -1,0 +1,12 @@
+{
+  "name": "aws-sns-s3",
+  "version": "1.0.0",
+  "description": "Project with node aws-sdk, sns and s3 packages",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ararat Asatryan",
+  "license": "MIT"
+}
