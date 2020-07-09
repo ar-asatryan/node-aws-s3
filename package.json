@@ -10,7 +10,10 @@
   "author": "Ararat Asatryan",
   "license": "MIT",
   "dependencies": {
+    "@elastic/elasticsearch": "^7.8.0",
+    "aws-s3": "^2.0.5",
     "aws-sdk": "^2.709.0",
-    "busboy": "^0.3.1"
+    "busboy": "^0.3.1",
+    "elasticsearch": "^16.7.1"
   }
 }
